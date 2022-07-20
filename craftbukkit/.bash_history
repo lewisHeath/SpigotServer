@@ -1,0 +1,13 @@
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui
+exec java -Xms512M -Xmx1024M -jar ./spigot.jar nogui

@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "092a136a-30e8-30bc-938a-d966ce1e2c8e",
+    "name": "crystalgxte",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f2164e47-b4b4-3c1d-bc88-0c96c79fcc21",
+    "name": "RTFerry",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "00000000-0000-0000-0009-01ff70ef2ce9",
+    "name": ".crystalgxte",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "00c682a0-0231-30cd-a016-b421d110e520",
+    "name": "BenLJ",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
